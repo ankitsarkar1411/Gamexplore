@@ -1,1 +1,1 @@
-# Gamexplore
+This is an app made in Flutter to help users understand the sports Cricket , Soccer and Tennis . Features include History , Quiz ,Videos about Rules and Injuries of the Game to make the learning interactive 
